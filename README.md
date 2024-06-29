@@ -61,7 +61,7 @@
   <img width=390 src="https://github-readme-streak-stats-a-dexterity.vercel.app/?user=a-dexterity&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-a-dexterity.vercel.app/api?username=a-dexterity&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-[![Dexterity's GitHub stats](https://github-readme-stats.vercel.app/api?username=a-dexterity)](https://github.com/anuraghazra/github-readme-stats)
+[![Dexterity's GitHub stats](https://github-readme-stats.vercel.app/api?username=a-dexterity)](https://github.com/a-dexterity/github-readme-stats)
 
 </div>
 
